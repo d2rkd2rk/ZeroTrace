@@ -29,4 +29,4 @@ An intelligent, real-time Network Intrusion Detection System (NIDS) built for Li
 
    sudo apt update && sudo apt install -y python3-pip iptables
 
-   pip install -r requirements.txt
+sudo apt update && sudo apt install -y python3-scapy python3-rich python3-joblib python3-numpy
